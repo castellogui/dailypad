@@ -2,6 +2,13 @@
 
 <img src="https://uploaddeimagens.com.br/images/003/569/414/full/da1.png?1638567149">
 
+Alunos: Guilherme castello - RA 82116396  
+Guilherme Ferreira - RA 821134479  
+Gustavo Souza - RA 821150814  
+Jonathas Orbaneça - RA 821141731  
+Ricardo Araújo - RA 821111339  
+Marcela Viana - RA 821218009
+
 Repositório criado para controle de versionamento de arquivos da documentação do projeto semestral apresentado à unidade curricular Gestão e Qualidade de Software e Modelos, métodos e técnicas da engenharia de software do curso de Análise e Desenvolvimento de Sistemas da Universidade São Judas Tadeu.
 
 
